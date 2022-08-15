@@ -1,0 +1,9 @@
+body{
+  background-color: black;
+}
+
+/* *(모든 글씨체에 폰트 적용) */
+
+*{
+  font-family: 'Nanum Pen Script', cursive;
+}
